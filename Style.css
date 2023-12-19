@@ -1,0 +1,21 @@
+
+.First   {
+    color: white;
+    list-style-type: decimal;
+    background-color: black;
+
+}
+
+.demo {
+color: red;
+list-style-type: disc;
+background-color: blue;
+}
+
+
+.vip  {
+
+   background-color: red;
+   color: black;
+   width: fit-content;
+}
